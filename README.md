@@ -1,2 +1,17 @@
-# saidarshan.github.io
-This repository hosts my personal website where I publish my projects, research, and articles.
+<!DOCTYPE html>
+<html>
+<head>
+<title>Saidarshan Behera</title>
+</head>
+
+<body>
+
+<h1>Hello, I am Darshan</h1>
+
+<p>Welcome to my website.</p>
+
+<p>I will be posting my work, articles, and projects here.</p>
+
+</body>
+
+</html>
